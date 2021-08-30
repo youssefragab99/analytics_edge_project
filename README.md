@@ -75,6 +75,16 @@
   * Training: 0.88
   * Testing: 0.75
   * Validation: 0.68
+* Visualizations:
+  * Correlation Heatmap:
+    * ![Unknown](https://user-images.githubusercontent.com/77282699/131284655-4876ed1e-e18f-43da-8c66-28075cb1b983.png)
+  * Histograms: 
+    * ![Unknown-2](https://user-images.githubusercontent.com/77282699/131284686-f2db36d5-2b1a-4013-b2ba-5bec2f1045f2.png)
+  * Iteration plot:
+     * ![Unknown-3](https://user-images.githubusercontent.com/77282699/131284615-9e76d627-94e8-4290-8f3d-8bc806b675c5.png)
+  * Final Decision Tree:
+    * ![Unknown-4](https://user-images.githubusercontent.com/77282699/131284729-2337a63a-b232-4de8-a46b-579538cee439.png)
+ 
 
 ### Ethical Considerations: 
 * Potential negative impacts of using model: 
